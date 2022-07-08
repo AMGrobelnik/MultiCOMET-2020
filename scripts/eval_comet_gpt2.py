@@ -1,3 +1,5 @@
+#cmd:
+#python ./scripts/eval_comet_gpt2.py --pred_file_path=./results/pred_generations.jsonl
 import os
 import json
 import argparse
